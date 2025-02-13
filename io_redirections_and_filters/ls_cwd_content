@@ -1,5 +1,7 @@
-total 64
-drwxr-xr-x 2 root root 4096 Feb 13 02:06 .
+total 68
+-rwxr--r-- 1 root root   36 Feb 13 02:13 #8-cwd_state#
+drwxr-xr-x 2 root root 4096 Feb 13 02:13 .
+lrwxrwxrwx 1 root root   52 Feb 13 02:12 .#8-cwd_state -> root@77b63e0743584aa8a57680bb28d72859-2377118072.167
 drwxr-xr-x 6 root root 4096 Feb 12 22:56 ..
 -rw-r--r-- 1 root root    2 Feb 12 22:56 .gitignore
 -rwxr-xr-x 1 root root   32 Feb 12 22:56 0-hello_world
@@ -16,4 +18,4 @@ drwxr-xr-x 6 root root 4096 Feb 12 22:56 ..
 -rw-r--r-- 1 root root 1574 Feb 12 22:56 README.md
 -rw-r--r-- 1 root root   12 Feb 13 00:40 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 -rw-r--r-- 1 root root   78 Feb 12 22:56 iacta
--rw-r--r-- 1 root root    0 Feb 13 02:06 ls_cwd_content
+-rw-r--r-- 1 root root    0 Feb 13 02:14 ls_cwd_content
